@@ -5,3 +5,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 This tutorial has helped me a lot.
+
+I am now going to learn how to use pull on github.
+Wish me luck
